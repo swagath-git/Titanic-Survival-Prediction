@@ -65,6 +65,5 @@ Through this project, I strengthened my understanding of:
 ---
 
 # Note :-
-This project was developed primarily to improve my practical experience and build strong hands-on expertise in Machine Learning tools and workflows.  
-The goal was not just achieving accuracy, but understanding the reasoning behind each preprocessing step, model choice, and evaluation metric.
+This project was developed primarily to improve my practical experience and build strong hands-on expertise in Machine Learning tools and workflows.
 
