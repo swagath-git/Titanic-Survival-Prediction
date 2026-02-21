@@ -61,3 +61,10 @@ Through this project, I strengthened my understanding of:
 - Feature scaling and encoding techniques
 - Model evaluation metrics
 - Writing clean and structured ML notebooks
+
+---
+
+# Note :-
+This project was developed primarily to improve my practical experience and build strong hands-on expertise in Machine Learning tools and workflows.  
+The goal was not just achieving accuracy, but understanding the reasoning behind each preprocessing step, model choice, and evaluation metric.
+
