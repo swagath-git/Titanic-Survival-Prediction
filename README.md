@@ -1,4 +1,4 @@
-# Fuel Economy Analysis
+# 1. Fuel Economy Analysis
 Overview This project focuses on analyzing fuel economy data using machine learning techniques. The dataset contains various features related to vehicle specifications, fuel types, and fuel costs.
 
 # Dataset:
@@ -22,7 +22,7 @@ All Models Performed well outperformed the other models with the highest testing
 
 ---
 
-# Titanic Survival Prediction
+# 2. Titanic Survival Prediction
 
 This project is built to predict passenger survival on the Titanic using Machine Learning techniques.
 Unlike a typical tutorial-based implementation, this project was done with the intention of strengthening my practical understanding of data preprocessing, feature engineering, and model building workflows.
