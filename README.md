@@ -22,6 +22,9 @@ All Models Performed well outperformed the other models with the highest testing
 
 ---
 
+
+
+
 # 2. Titanic Survival Prediction
 
 This project is built to predict passenger survival on the Titanic using Machine Learning techniques.
