@@ -42,5 +42,5 @@ The trained models achieve certain accuracy scores on both training and testing 
 ---
 
 # Note :-
-This project was developed primarily to improve my practical experience and build strong hands-on expertise in Machine Learning tools and workflows.
+This projects was developed primarily to improve my practical experience and build strong hands-on expertise in Machine Learning tools and workflows.
 
